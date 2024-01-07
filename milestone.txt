@@ -1,0 +1,12 @@
+# Milestone.txt
+# Leila Maboudian
+
+
+So far, this project has been very informative -- it has taught me so much about Python dictionaries and the significance of object-oriented programming.
+
+I chose to have my additional parameter create a dictionary representing the distribution of sentence objectivity and polarity in a text.
+-> This was done using sentiment analysis in Python's TextBlob library (thanks to an article from Analytics Vidhya).
+
+To be honest, the biggest challenge has been deciding on what texts I want to compare -- or really, what I think would make the most meaningful "experiment".
+
+I am at the milestone point, and hope that, once I finish the remaining functions and run my tests, my "experiment" will have clear, logical results.

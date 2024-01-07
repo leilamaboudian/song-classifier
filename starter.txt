@@ -1,0 +1,19 @@
+# Starter.txt
+# Leila Maboudian
+
+# "starting idea of the source texts you might use for this project's comparisons"
+
+Song experiment idea:
+1) Main text: a script of country lyrics (e.g, Blake Shelton...).
+2) Main text: a script of pop lyrics (e.g, Selena Gomez...).
+3) Compare (mains) to: a script of (for example) Taylor Swift lyrics (country and pop).
+4) Compare (mains) to: a script of soul lyrics - for example, Aretha Franklin.
+
+# ULTIMATELY NOT USED.
+
+Book experiment idea:
+1) Main text: a sci-fi book (e.g, Jules Verne or Douglas Adams - Hitchhiker's Guide to the Galaxy).
+2) Main text: a "classic" book (e.g, Jane Austen).
+3) Compare (mains) to: a "classic sci-fi" book (e.g, Mary Shelley - Frankenstein).
+4) Compate (mains) to: another classic book (or even another Jane Austen).
+   -> This (4) will hopefully confirm the accuracy of the program.
